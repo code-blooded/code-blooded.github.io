@@ -17,9 +17,9 @@ class Home extends React.Component {
             <Row>
                 <Col style={{fontFamily: 'Josefin Slab', fontSize: '130%'}}>
                     <br/>
-                    I am currently working at <a style={{fontFamily: 'Jura'}}>NUTANIX</a> (MTS3). I completed my under-graduate from <a style={{fontFamily: 'Jura'}}>BITS Pilani University</a>.
+                    I am currently working at <a style={{fontFamily: 'Jura'}}>NUTANIX</a> (MTS2). I completed my under-graduate from <a style={{fontFamily: 'Jura'}}>BITS Pilani University</a>.
                     <br/><br/>
-                    I'm a keen learner, explorer, Computer Science enthusiast and an aspiring machine learning researcher with a passion for developing smart solutions to assist humans. I am familiar with Object Oriented Design, OOP Concepts, Test Driven Development and Paper Prototyping.
+                    I'm a keen learner, explorer, Computer Science enthusiast and an aspiring machine learning researcher with a passion for developing smart solutions to assist humans.
                     <br/><br/>
                     I think the best way to gain knowledge is by experimenting and the best way to strengthen concepts is by teaching.
                 </Col>
@@ -37,33 +37,34 @@ class Home extends React.Component {
                 <Col xs={24} sm={24} md={24} lg={8} xl={8}>
                     <h1 style={{fontFamily: 'Jura'}}>Languages</h1>
                     <Row><b>Familarity : Advanced</b></Row>
-                    <Row>Python, Java, C, C++, Shell, SQL, HTML</Row>
+                    <Row>Python, Java, C, C++</Row>
                     <br/>
                     <Row><b>Familarity : Intermediate</b></Row>
-                    <Row>JavaScript, Go</Row>
+                    <Row>JavaScript</Row>
                     <br/>
                     <Row><b>Familarity : Basic</b></Row>
-                    <Row>CSS, Verilog, Assembly</Row>
+                    <Row>CSS, Angular</Row>
                 </Col>
 
                 <Col xs={24} sm={24} md={24} lg={0} xl={0}><Divider/></Col>
                 <Col xs={24} sm={24} md={24} lg={8} xl={8}>
                     <h1 style={{fontFamily: 'Jura'}}>Framework/Libraries</h1>
                     <Row><b>Experienced</b></Row>
-                    <Row>OpenCV, scikit-learn, scikit-image, numpy, tensorflow, pandas, ExpressJS, Mongoose, Django, materializecss</Row>
+                    <Row>OpenCV, Scikit-learn, Numpy, Keras, Tensorflow, Pandas,
+                         ExpressJS, Mongoose, Flask, ReactJS, NodeJS</Row>
                     <br/>
                     <Row><b>Familiar</b></Row>
-                    <Row>EasyMock, Theano, jQuery</Row>
+                    <Row>Mockito, Spring Boot, jQuery</Row>
                 </Col>
 
                 <Col xs={24} sm={24} md={24} lg={0} xl={0}><Divider/></Col>
                 <Col xs={24} sm={24} md={24} lg={8} xl={8}>
                     <h1 style={{fontFamily: 'Jura'}}>Tools</h1>
                     <Row><b>Experienced</b></Row>
-                    <Row>Docker, Docker-compose, Kubernetes, Ansible, MongoDB, Shinken, Elasticsearch, Logstash, Kibana, GCP</Row>
+                    <Row>GCP, Docker, Docker-compose, MongoDB</Row>
                     <br/>
                     <Row><b>Familiar</b></Row>
-                    <Row>Prometheus, Grafana, Kafka, rabbitMQ, Ansible Tower</Row>
+                    <Row>AWS, Azure, Kafka</Row>
                 </Col>
             </Row>
         </Row>

@@ -13,7 +13,7 @@ class NavBar extends React.Component {
                 <Row style={{background: '#fff', padding: '10px'}}>
                     <Col xs={6} sm={6} md={24} lg={24} xl={24}>
                         <img
-                            src="https://avatars2.githubusercontent.com/u/7397405?s=460&v=4"
+                            src="https://avatars2.githubusercontent.com/u/17974221?s=460&v=4"
                             style={{width: '100%'}}
                         />
                     </Col>
@@ -21,28 +21,28 @@ class NavBar extends React.Component {
                         <Row>
                             <Col>
                                 <Title level={3} style={{marginTop: '10px', textAlign: 'center'}}>
-                                    AYUSH SHARMA
+                                    SHRIRAM R
                                 </Title>
                             </Col>
                             <Col>
                                 <Row type="flex" justify="center">
                                     <Col span={4} style={{padding: 10}}>
-                                        <a href="https://github.com/AkaZuko" target="blank">
+                                        <a href="https://github.com/code-blooded" target="blank">
                                             <Icon type="github" style={{fontSize: 'x-large'}}/>
                                         </a>
                                     </Col>
                                     <Col span={4} style={{padding: 10}}>
-                                        <a href="https://www.linkedin.com/in/akazuko" target="blank">
+                                        <a href="#" target="blank">
                                             <Icon type="linkedin" style={{fontSize: 'x-large'}}/>
                                         </a>
                                     </Col>
                                     <Col span={4} style={{padding: 10}}>
-                                        <a href="https://twitter.com/asharma_95" target="blank">
-                                            <Icon type="twitter" style={{fontSize: 'x-large'}}/>
+                                        <a href="https://instagram.com/r_shriram" target="blank">
+                                            <Icon type="instagram" style={{fontSize: 'x-large'}}/>
                                         </a>
                                     </Col>
                                     <Col span={4} style={{padding: 10}}>
-                                        <a href="mailto:sharma.ayush1995@gmail.com" target="blank">
+                                        <a href="mailto:rshriram96@gmail.com" target="blank">
                                             <Icon type="mail" style={{fontSize: 'x-large'}}/>
                                         </a>
                                     </Col>
